@@ -1,0 +1,13 @@
+# This repository hosts ONLY image assets, served to the experiment via the
+# jsDelivr CDN. It deliberately contains no program code and no answer keys.
+# As a safety net, ignore everything except image files so nothing sensitive
+# can ever be committed by accident.
+*
+!*/
+!*.jpg
+!*.jpeg
+!*.png
+!*.gif
+!*.webp
+!.gitignore
+!README.md
